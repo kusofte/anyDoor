@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+*.logs
+node_modules/
+npm-debug.log*
+*.swp
+.idea/
+*.eslintrc.js
+*.package-lock.json
+*.package.json
